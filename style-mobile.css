@@ -98,8 +98,8 @@ p.footer {
     height: 3px;
     padding: 0px;
     width: 50%;
-    border-radius: 3px;
-    box-shadow: 0 1px 5px #fffffff inset, 0 1px 0 #444;           
+    border-radius: 0px;
+    box-shadow: 0 0px 0px #fffffff inset, 0 0px 0 #444;           
 }
 
 .progress-bar span {
