@@ -95,9 +95,9 @@ p.footer {
     position: absolute;
     left: 27.5%;
     top: 80%;
-    height: 3px;
+    height: 0px;
     padding: 0px;
-    width: 50%;
+    width: 0%;
     border-radius: 0px;
     box-shadow: 0 0px 0px #fffffff inset, 0 0px 0 #444;           
 }
